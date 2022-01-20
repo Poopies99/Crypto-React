@@ -12,6 +12,8 @@ This github repository contains the project code for Disney-React Full-Stack pro
 4. [Redux Query Toolkit](https://redux-toolkit.js.org/rtk-query/overview)
 5. [RapidApi](https://rapidapi.com/hub): [Coinrank](https://rapidapi.com/Coinranking/api/coinranking1/details) & [Bing News Search](https://rapidapi.com/microsoft-azure-org-microsoft-cognitive-services/api/bing-news-search1/)
 6. [Moments](https://momentjs.com/)
+7. Axios
+8. HTML-React-Parser(https://www.npmjs.com/package/html-react-parser)
   
 ## Api:
 
