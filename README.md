@@ -14,12 +14,17 @@ This github repository contains the project code for Disney-React Full-Stack pro
 6. [Moments](https://momentjs.com/)
 7. [Axios](https://www.npmjs.com/package/axios)
 8. [HTML-React-Parser](https://www.npmjs.com/package/html-react-parser)
+9. CSS
   
 ## Api:
 
 RapidApi was heavily utilised to gather data for each cryptocurrency and their respective news. Many of the Api endpoints require premium plans in order to display
 additional details like price history which could subsequently be parsed into ChartJS to display historic price of each respective cryptocurrency. 
 
+## Design
+
+Website was built using CSS flex box and grid for each cryptocurrency list, most components such as navigation bar, Homepage and layouts were built using ant-design
+	
 Will work on generating Charts for each cryptocurrency using ChartJS in the future :)
 
 ## Views:
