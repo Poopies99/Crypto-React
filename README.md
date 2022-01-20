@@ -20,6 +20,8 @@ This github repository contains the project code for Disney-React Full-Stack pro
 RapidApi was heavily utilised to gather data for each cryptocurrency and their respective news. Many of the Api endpoints require premium plans in order to display
 additional details like price history which could subsequently be parsed into ChartJS to display historic price of each respective cryptocurrency. 
 
+Will work on generating Charts for each cryptocurrency using ChartJS in the future :)
+
 ## Views:
 
 ### Desktop: 
