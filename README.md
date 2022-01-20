@@ -1,6 +1,6 @@
 # Crypto-React
 
-This github repository contains the project code for Disney-React Full-Stack project, a fully funtional repsonsive Crypto website that is built using ReactJS, RapidApi, AntDesign, Firebase and more that is available on Desktop and Tablet.
+This github repository contains the project code for CryptoWorld-React Full-Stack project, a fully funtional repsonsive Crypto website that is built using ReactJS, RapidApi, AntDesign, Firebase and more that is available on Desktop and Tablet.
 
 ## <a href="https://cryptoworld-react.web.app" target="_blank"><u>Click here to access website<u></a>
   
