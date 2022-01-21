@@ -15,6 +15,7 @@ This github repository contains the project code for CryptoWorld-React Full-Stac
 7. [Axios](https://www.npmjs.com/package/axios)
 8. [HTML-React-Parser](https://www.npmjs.com/package/html-react-parser)
 9. CSS
+10. Firebase Hosting
   
 ## Api:
 
